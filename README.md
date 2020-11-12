@@ -1,2 +1,4 @@
 # Leetcode
-Implement strStr()
+1. Implement strStr() solution
+
+
